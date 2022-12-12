@@ -16,10 +16,10 @@ A description of my project: This is a student database app to enable users to s
 ### LINK TO PLANNING TRELLO BOARD
 [TRELLO BOARD](https://trello.com/invite/b/zirbIuXt/ATTI464f344334943c4f53dd656a7ed3d2559C5A3825/project-2-students-database-app)
 ### MOCKUPS
-![MOCKUPS](https://imgur.com/a/sABoIeD)
-![MOCKUPS](https://imgur.com/a/toVWADl)
-![MOCKUPS](https://imgur.com/a/YJN9uea)
-![MOCKUPS](https://imgur.com/a/toVWADl)
+(https://imgur.com/a/sABoIeD)
+(https://imgur.com/a/toVWADl)
+(https://imgur.com/a/YJN9uea)
+(https://imgur.com/a/toVWADl)
 
 
 
