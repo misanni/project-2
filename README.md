@@ -19,7 +19,6 @@ A description of my project: This is a student database app to enable users to s
 (https://imgur.com/a/sABoIeD)
 (https://imgur.com/a/toVWADl)
 (https://imgur.com/a/YJN9uea)
-(https://imgur.com/a/toVWADl)
 
 
 
@@ -27,4 +26,4 @@ A description of my project: This is a student database app to enable users to s
 
 
 ### Link to Project
-(https://project-2-4vbu.onrender.com/)
+(https://project-2-1940.onrender.com)

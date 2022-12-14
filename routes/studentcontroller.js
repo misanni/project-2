@@ -35,7 +35,7 @@ function insertRecord(req, res) {
         };
     });
 };
-
+//update a particular student details
 function updateRecord(req, res) {
     Student.findOneAndUpdate({_id: req.body._id}, req.body, {new: true},(err, doc) =>{
         if(!err){
@@ -45,7 +45,7 @@ function updateRecord(req, res) {
         };
     });
 };
-
+//list all the students
 router.get("/list", ensureAuthenticated, (req, res) => {
     Student.find((err, docs) => {
         if(!err) {
@@ -57,6 +57,7 @@ router.get("/list", ensureAuthenticated, (req, res) => {
         }
     });
 });
+//shows one student
 router.get("/:id", ensureAuthenticated,(req, res) => {
     Student.findById(req.params.id, (err, doc) => {
         if(!err) {
